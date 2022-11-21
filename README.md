@@ -4,7 +4,6 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 ![GMO Free Status](https://img.shields.io/badge/GMO-Free-green.svg)
 ![Visitors Friendly Status](https://img.shields.io/badge/Visitors-Friendly-green.svg)
-![LinkedIn](https://i.pinimg.com/736x/84/0d/04/840d04b5a83f0d7c46a5665513b310a6.jpg)](https://www.linkedin.com/in/vladimir-karin-a62243229/)
 
 # Happy weekend
 
