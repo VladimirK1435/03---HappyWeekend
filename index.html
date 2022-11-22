@@ -38,13 +38,28 @@
         margin-top: 40px;
         margin-left: calc((100% - 800px) / 2);
       }
+
       header > img {
-        width: 100px;
+        height: 40px;
         float: left;
       }
-      nav {
+
+      header > nav {
         float: right;
       }
+
+      nav > a {
+        margin-left: 50px;
+        font-size: 18px;
+        text-decoration: none;
+        color: #3f4371;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      nav > a:first-child {
+        margin-left: 0;
+      }
+
       main {
         display: inline-block;
         width: 800px;
@@ -63,14 +78,19 @@
       }
     </style>
 
-
     <title>Happy weekend</title>
   </head>
   <body>
-
     <header>
       <img src="./img/logo.png" alt="logo" />
-      <nav>Links Links Links</nav>
+
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">Project</a>
+        <a href="#">About</a>
+        <a href="#">Service</a>
+        <a href="#">Contact</a>
+      </nav>
     </header>
 
     <main>
