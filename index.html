@@ -30,12 +30,49 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-    <style></style>
+
+    <style>
+      header {
+        display: inline-block;
+        width: 800px;
+        margin-top: 40px;
+        margin-left: calc((100% - 800px) / 2);
+      }
+      header > img {
+        width: 100px;
+        float: left;
+      }
+      nav {
+        float: right;
+      }
+      main {
+        display: inline-block;
+        width: 800px;
+        margin-top: 40px;
+        margin-left: calc((100% - 800px) / 2);
+      }
+
+      div {
+        width: 35%;
+        float: left;
+      }
+
+      main > img {
+        width: 60%;
+        float: right;
+      }
+    </style>
+
 
     <title>Happy weekend</title>
   </head>
   <body>
-    <header>logo + nav</header>
+
+    <header>
+      <img src="./img/logo.png" alt="logo" />
+      <nav>Links Links Links</nav>
+    </header>
+
     <main>
       <div>Left Content</div>
       <img
