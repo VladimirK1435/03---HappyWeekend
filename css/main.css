@@ -110,6 +110,11 @@ body {
   margin-bottom: 0.5em;
   text-align: center;
   line-height: 2em;
+  transition: all 0.75s;
+}
+
+.socials > .icon:hover {
+  box-shadow: 0 2px 6px #777;
 }
 
 .right-column {
