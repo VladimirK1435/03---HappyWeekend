@@ -2,24 +2,24 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-header {
+.main-header {
   display: inline-block;
   width: 800px;
   margin-top: 40px;
   margin-left: calc((100% - 800px) / 2);
 }
 
-header > img {
+.logo {
   height: 40px;
   float: left;
 }
 
-header > nav {
+.main-nav {
   float: right;
   margin-top: 3.8px;
 }
 
-nav > a {
+.main-nav > .link {
   display: inline-block;
   padding: 0.3em;
   padding-left: 0.7em;
@@ -35,11 +35,11 @@ nav > a {
   transition: all 0.75s;
 }
 
-nav > a:first-child {
+.main-nav > a:first-child {
   margin-left: 0;
 }
 
-nav > a:hover {
+.main-nav > .link:hover {
   border: 2px solid #3f4371;
 }
 
@@ -50,35 +50,36 @@ main {
   margin-left: calc((100% - 800px) / 2);
 }
 
-main > div {
+.left-column {
   width: 35%;
   float: left;
 }
 
-h1 {
+.main-title {
   color: #3f4371;
   text-transform: uppercase;
   font-size: 55px;
   margin: 0;
 }
 
-h1 > span {
+.main-title > span {
   font-size: 45px;
 }
 
-p {
+.description {
   font-size: 18px;
   line-height: 1.3em;
   letter-spacing: 0.05em;
   word-spacing: 0.3em;
 }
 
-main > div > a {
+.btn {
   display: inline-block;
   padding: 0.5em;
   padding-left: 3em;
   padding-right: 3em;
   text-decoration: none;
+  font-family: inherit;
   font-size: 20px;
   background-color: #3f4371;
   color: white;
@@ -88,18 +89,18 @@ main > div > a {
   transition: all 0.75s;
 }
 
-main > div > a:hover {
+.btn:hover {
   box-shadow: 0 0.6em 0.4em -0.5em #555;
 }
 
-div > div {
+.socials {
   margin-top: 50px;
 }
 
-div > div > a {
+.socials > .icon {
 }
 
-main > img {
+.right-column {
   width: 60%;
   float: right;
 }
