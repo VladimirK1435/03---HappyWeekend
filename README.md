@@ -25,6 +25,7 @@ Design: [Happy weekend](./design/main.jpg)
 - [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - FontAwesome icons
 - fixed width content (desktop only)
+- CSS selectors (https://www.w3schools.com/csSref/css_selectors.php)
 
 ## 🧰 Getting Started
 
@@ -69,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/VladimirK1435)
+Vladimir: [Github](https://github.com/VladimirK1435)
 
 ## ⚠️ License
 
