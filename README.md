@@ -5,7 +5,7 @@
 ![GMO Free Status](https://img.shields.io/badge/GMO-Free-green.svg)
 ![Visitors Friendly Status](https://img.shields.io/badge/Visitors-Friendly-green.svg)
 
-# Happy weekend
+# Ordinary Happiness
 
 _website design project_
 
@@ -16,7 +16,7 @@ _website design project_
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://vladimirk1435.github.io/03---HappyWeekend/
-Design: [Happy weekend](./design/main.jpg)
+Design: [Happy weekend](./pic/main.webp)
 
 ## 🎯 Project features/goals
 
@@ -49,7 +49,8 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/front-end-by-rimantas/03---HappyWeekend.git
+   git clone https://github.com/VLadimirK1435/03-HomeWork-IndexDesign-OrdinaryHappiness
+.git
    ```
 2. Install NPM packages
    ```sh
@@ -78,4 +79,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-https://dribbble.com/shots/4986524-A-Happy-Weekend/attachments/1115040?mode=media
+https://dribbble.com/shots/4728585-ordinary-happiness
