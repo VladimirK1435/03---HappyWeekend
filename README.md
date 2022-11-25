@@ -5,7 +5,7 @@
 ![GMO Free Status](https://img.shields.io/badge/GMO-Free-green.svg)
 ![Visitors Friendly Status](https://img.shields.io/badge/Visitors-Friendly-green.svg)
 
-# Ordinary Happiness
+# Happy Weekend
 
 _website design project_
 
@@ -49,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/VLadimirK1435/03-HomeWork-IndexDesign-OrdinaryHappiness
+   git clone https://github.com/VLadimirK1435/03---HappyWeekend
 .git
    ```
 2. Install NPM packages
@@ -79,4 +79,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-https://dribbble.com/shots/4728585-ordinary-happiness
+https://dribbble.com/shots/4986524-A-Happy-Weekend/attachments/4986524?mode=media
